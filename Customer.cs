@@ -1,4 +1,3 @@
-using System;
 public class Customer
 {   // static fields are shared among all instances of the class we only can access them directly inside static methods.
    // instance fields belong to each instance of the class and can be accessed through object references.

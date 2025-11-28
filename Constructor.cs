@@ -49,7 +49,6 @@ class Constructor
         person2.DisplayInfo();
         Constructor obj = new Constructor();
         int result = obj.Add();
-        Console.WriteLine("The sum is: " + result);
     }
    
 }
